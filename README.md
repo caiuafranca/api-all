@@ -1,11 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicação do curso de API RESTFUL
 
-Things you may want to cover:
-
-* Ruby version
+1 -  servira de base para estudo para desenvolvimento de aplicações restful usando Rais
+* Ruby version 2.3.3
 
 * System dependencies
 
